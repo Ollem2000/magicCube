@@ -1,3 +1,3 @@
 # magicCube
-View in [Github Pages](https://myrubikscube.netlify.app) or directly on [Github](https://myrubikscube.netlify.app) 
-* [Your GitHub Pages URL and adding preview to your README.md](https://myrubikscube.netlify.app)
+Meu projeto em CSS puro recriando o cubo mágico.
+![alt text](https://github.com/Ollem2000/magicCube/blob/main/assets/preview.png?raw=true)
